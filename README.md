@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranchhodbhaioo7
+- 👋 Hi, I’m @Ranchhod
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on YouTube 
